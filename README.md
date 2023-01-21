@@ -2,6 +2,7 @@
 
 #### Current Projects:
 - Contributor, Reviewer & Release Manager for https://github.com/spinnaker
+- Author & Maintainer for Spinnaker monitoring mixin (Prometheus & Grafana) https://github.com/uneeq-oss/spinnaker-mixin
 - Various others per [repositories](https://github.com/karlskewes?tab=repositories)
 
 #### Previous work accounts:
