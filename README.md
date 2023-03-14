@@ -6,7 +6,9 @@
 - Various others per [repositories](https://github.com/karlskewes?tab=repositories)
 
 #### Previous work accounts:
-- Salesforce: [@kskewes-sf](https://github.com/kskewes-sf). Spinnaker.io Release Manager & Contributor, Maintainer for https://github.com/salesforce/sloop
+- Salesforce: [@kskewes-sf](https://github.com/kskewes-sf). 
+  - Contributor, Reviewer & Release Manager for https://github.com/spinnaker
+  - Maintainer for https://github.com/salesforce/sloop
 
 <!--
 **karlskewes/karlskewes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
