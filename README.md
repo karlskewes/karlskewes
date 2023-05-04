@@ -1,9 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Karl
 
 #### Current Projects:
-- Contributor, Reviewer & Release Manager for https://github.com/spinnaker
-- Author & Maintainer for Spinnaker monitoring mixin (Prometheus & Grafana) https://github.com/uneeq-oss/spinnaker-mixin
-- Various others per [repositories](https://github.com/karlskewes?tab=repositories)
+- Contributor, Reviewer & Release Manager for [spinnaker.io](https://github.com/search?q=org%3Aspinnaker+is%3Apr+author%3Akarlskewes+author%3Akskewes-sf) - Go, Python, Java
+- [spinnaker-mixin](https://github.com/uneeq-oss/spinnaker-mixin) - Prometheus monitoring & Grafana dashboards
+- [spinnaker-kustomize](https://github.com/spinnaker/spinnaker-kustomize) - Modern Kustomize installation for Spinnaker adopted by project
+- [spin-libsonnet](https://github.com/karlskewes/spin-libsonnet) - Spinnaker applications, pipelines & projects library written in Jsonnet
+- [spinnaker-pac](https://github.com/karlskewes/spinnaker-pac) - Opinionated DSL for platform and product teams that leverages spin-libsonnet
+- [palace-advertising-go](https://github.com/karlskewes/palace-advertising-go) - OpenAPI Go client library for getpalace.com
+- My [NixOS flakes](https://github.com/karlskewes/nixos) configuration (includes dotfiles)
+- Tuning our various 1980's Toyota's running modern engines with [MS ECU's](https://msextra.com)
+- Surfing all over New Zealand and abroad
+
+#### Previous contributions:
+- [terraform-provider-libvirtd](https://github.com/dmacvicar/terraform-provider-libvirt/pull/813/commits) - assisted with "pure go" migration from c bindings
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets/search?p=1&q=author%3Akarlskewes&type=issues) - added Prometheus metrics, CI
+- [Sloop](https://github.com/salesforce/sloop/search?q=author%3Akarlskewes+author%3Akskewes-sf&type=issues) - added Prometheus metrics, cleaner HTTP mux, CI, Kubernetes library upgrade, etc
 
 #### Previous work accounts:
 - Salesforce: [@kskewes-sf](https://github.com/kskewes-sf). 
