@@ -11,7 +11,7 @@
 - Tuning our various 1980's Toyota's running modern engines with [MS ECU's](https://msextra.com)
 - Surfing all over New Zealand and abroad
 
-#### Previous contributions:
+#### Previous contributions (sample):
 - [terraform-provider-libvirtd](https://github.com/dmacvicar/terraform-provider-libvirt/pull/813/commits) - assisted with "pure go" migration from c bindings
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets/search?p=1&q=author%3Akarlskewes&type=issues) - added Prometheus metrics, CI
 - [Sloop](https://github.com/salesforce/sloop/search?q=author%3Akarlskewes+author%3Akskewes-sf&type=issues) - added Prometheus metrics, cleaner HTTP mux, CI, Kubernetes library upgrade, etc
