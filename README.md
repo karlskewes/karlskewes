@@ -8,8 +8,9 @@
 - [spinnaker-pac](https://github.com/karlskewes/spinnaker-pac) - Opinionated DSL for platform and product teams that leverages spin-libsonnet
 - [palace-advertising-go](https://github.com/karlskewes/palace-advertising-go) - OpenAPI Go client library for getpalace.com
 - My [NixOS flakes](https://github.com/karlskewes/nixos) configuration (includes dotfiles)
+- [Code Examples](https://github.com/karlskewes/code-examples) random snippets or experiments that I should turn into blog articles
 - Tuning our various 1980's Toyota's running modern engines with [MS ECU's](https://msextra.com)
-- Surfing all over New Zealand and abroad
+- Surfing all over Australia and abroad
 
 #### Previous contributions (sample):
 - [terraform-provider-libvirtd](https://github.com/dmacvicar/terraform-provider-libvirt/pull/813/commits) - assisted with "pure go" migration from c bindings
